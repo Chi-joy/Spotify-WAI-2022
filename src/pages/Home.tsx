@@ -19,7 +19,6 @@ export default function Home() {
                     <form className="flex w-1/2 justify-center text-3xl text-white mt-16">
                         <Searchbar></Searchbar>
                     </form>
-
                     
                 </div>
             </div>
