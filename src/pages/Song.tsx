@@ -36,7 +36,7 @@ export default function Song() {
                 
                 <div className="flex w-1/3 justify-center mt-10"><Searchbar/></div>
                 
-                <div className="flex w-2/5 h-52 bg-yellow-500 mt-12">
+                <div className="flex w-2/5 h-52 mt-12">
                     {/* {songData.map((song:ISong) =>( */}
                         <SearchedSong
                             // key={song.songID}

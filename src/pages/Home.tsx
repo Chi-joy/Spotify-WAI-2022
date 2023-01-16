@@ -9,7 +9,7 @@ export default function Home() {
 
                     <div className="flex flex-row justify-center text-5xl text-white font-bold mt-48" >
                         <img className="flex" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" style={{width: 100, height:100}}></img>
-                        <span className="mt-6 pl-8 text-green-600">Spotify <span className="mt-6 text-white">Reccomender</span> </span>
+                        <span className="mt-6 pl-8 text-green-600">Spotify <span className="mt-6 text-white">Recommender</span> </span>
                         
                     </div>
 
